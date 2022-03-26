@@ -24,7 +24,7 @@
 
 -  启动startup包下的ServerStartUp类。
 
--  启动多个startup包下的ClientStartUp类。可登录或注册。当前properties内预设了user1~user5共5个用户，密码分别为pwd1~pwd5。（为了同一个类启动多次，采用idea作为IDE时，可Edit Configuration=>Modify options =>Allow multiple instances）
+-  启动多个startup包下的ClientStartUp类。可登录或注册。当前properties内预设了user1-user5共5个用户，密码分别为pwd1-pwd5。（为了同一个类启动多次，采用idea作为IDE时，可Edit Configuration=>Modify options =>Allow multiple instances）
 
 - 登录后，客户端可实现单独通信和广播通信。
 
